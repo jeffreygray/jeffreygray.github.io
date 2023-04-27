@@ -19,7 +19,7 @@ This guide is for my friend to make a quick personal site. There are lots of gre
 	1. Ensure it's public
 	2. Click *Settings* > *Pages* > *Source* > *GitHub actions*
 
-New commits will kick off the GH actions deployment. That's it!
+New commits will kick off the GH actions deployment to `<YOUR GITHUB USERNAME>.github.io`. That's it!
 
 ---
 #### More
