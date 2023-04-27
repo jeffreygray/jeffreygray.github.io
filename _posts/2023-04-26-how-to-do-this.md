@@ -24,7 +24,7 @@ New commits will kick off the GH actions deployment. That's it!
 ---
 #### More
 
-If you want to use a domain name
+If you want to spend a few bucks and use a domain name
 - Configure your DNS records as follows:
 
 |         Host name            |  Type     |   TTL  |                                   Data                                           |   |
