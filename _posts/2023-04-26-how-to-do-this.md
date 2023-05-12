@@ -2,7 +2,7 @@
 title: deploying and maintaining something like this easily
 date: 2023-04-26 21:42:00 +/-TTTT
 categories: [tutorials]
-tags: [simple]     
+tags: [simple, architecture]     
 ---
 
 This guide is for my friend to make a quick personal site. There are lots of great tutorials out there; however, I didn't see anything concise enough that included all steps. We will:
